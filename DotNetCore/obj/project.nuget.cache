@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "28BmCSrbX7C7nz+4F3qCGlVW6nsq+7UkCC7PAgqrisUjoYrJ9nqAG5z8E4rqLGVTjExJDp3aaH+a6fvgoVZtSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saide\\OneDrive\\Job Searching\\GitHub\\CSharpFeatureExamples\\DotNetCore\\DotNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saide\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

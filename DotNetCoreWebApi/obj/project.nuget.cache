@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pp5EbwNwF+Zb1P+Xq33bvOCRr3nG5HWelQmB+LfDcvfQJK77n9RiVgL+RT9FyAJXI4xkQPw8V7AQJ4XERhkS2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saide\\OneDrive\\Job Searching\\GitHub\\CSharpFeatureExamples\\DotNetCoreWebApi\\DotNetCoreWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saide\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
